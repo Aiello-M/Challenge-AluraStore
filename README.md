@@ -10,7 +10,8 @@
 </p>
 
 <p align="center">
-  🔗 <a href="LINK_A_TU_COLAB_AQUI" target="_blank">Ver notebook en Google Colab</a>
+  🔗 <a href="https://github.com/Aiello-M/Challenge-AluraStore" target="_blank">Ver repositorio</a> | 
+  <a href="https://colab.research.google.com/github/Aiello-M/Challenge-AluraStore/blob/main/Challenge_AluraStore.ipynb" target="_blank">Abrir Notebook en Colab</a>
 </p>
 
 ---
