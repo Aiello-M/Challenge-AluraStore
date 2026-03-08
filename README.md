@@ -143,14 +143,14 @@ Cada uno de los 5 factores fue evaluado mediante:
 ## 🚀 Cómo Ejecutar el Proyecto
 
 ### Opción 1: Google Colab (Recomendado)
-1. Abre el [notebook en Colab](LINK_A_TU_COLAB)
+1. Abre el [notebook en Colab](https://colab.research.google.com/github/Aiello-M/Challenge-AluraStore/blob/main/Challenge_AluraStore.ipynb)
 2. Click en **"Copiar en Drive"**
 3. Ejecuta todas las celdas: `Runtime` → `Run all`
 
 ### Opción 2: Jupyter Notebook Local
 ```bash
 # Clonar repositorio
-git clone https://github.com/TU_USUARIO/Challenge-AluraStore-DataScience.git
+git clone https://github.com/Aiello-M/Challenge-AluraStore.git
 
 # Instalar dependencias
 pip install pandas matplotlib numpy
